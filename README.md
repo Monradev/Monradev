@@ -1,6 +1,6 @@
-# Hola, mi nombre es Ramon Oliveros 👋
+![https://github.com/monradev](./github_banner.png)
 
-![https://github.com/monradev](./Github_Profile.png)
+# Hola, mi nombre es Ramon Oliveros 👋
 
 - 🌱 "Curioso por naturaleza y amante de la tecnología. Estoy aprendiendo Python a través de pequeños proyectos, ¡es muy divertido!"
 
